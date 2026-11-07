@@ -1,0 +1,1 @@
+"""Account-level financial resilience simulator."""
